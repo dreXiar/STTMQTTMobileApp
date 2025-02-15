@@ -1,6 +1,4 @@
-# speechtotextflutter
-
-A new Flutter project.
+A voice command app with Flutter and MQTT
 
 ## Getting Started
 
